@@ -1,0 +1,13 @@
+venv
+*.pyc
+addquery.py
+edit.py
+login.py
+register.py
+queries.py
+event.html
+index.html
+login.html
+signup.html
+update.html
+images
